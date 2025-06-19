@@ -5,8 +5,8 @@
 To explore the given dataset, identify patterns, visualize data distributions, and derive useful insights using EDA techniques.
 
 ## 📁 Files
-- <a>[Ds_Task2.ipynb ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-2/blob/main/Ds_Task2.ipynbl/)(LinkedIn)</a>
-- <a>[test.csv ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-2/blob/main/test.csv/)(LinkedIn)</a>
+- <a>[Ds_Task2.ipynb ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-2/blob/main/Ds_Task2.ipynbl)</a>
+- <a>[test.csv ](https://github.com/rohitg8951/Prodigy-Infotech-DS-Task-2/blob/main/test.csv)</a>
 ## 📊 Tools & Libraries Used
 
 - Python
